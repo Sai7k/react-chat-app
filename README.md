@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+__View live demo: https://eager-bhabha-f1518e.netlify.com/__
+
 ## Available Scripts
 
 In the project directory, you can run:
